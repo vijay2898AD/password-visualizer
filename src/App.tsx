@@ -66,7 +66,7 @@ function App() {
   return (
     <div className={`flex flex-col items-center justify-center min-h-screen transition-colors duration-700 ${getBackgroundStyles(strength)}`}>
       
-      <h1 className="text-3xl font-bold mb-2 text-slate-700">Password Visualizer</h1>
+      <h1 className="text-4xl font-bold mb-2 text-slate-700">Password Visualizer</h1>
       <p className="text-slate-500 mb-10">Make the box big and bold!</p>
 
       {/* INPUT CONTAINER AREA */}
