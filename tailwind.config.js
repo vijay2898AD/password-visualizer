@@ -15,7 +15,7 @@ export default {
         }
       },
       animation: {
-        shake: 'shake 0.3s ease-in-out infinite', // It repeats infinitely
+        shake: 'shake 0.3s ease-in-out infinite', 
       }
     },
   },
